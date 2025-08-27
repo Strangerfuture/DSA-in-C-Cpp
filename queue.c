@@ -2,7 +2,6 @@
 // Queue is FIFO (First In, First Out).
 
 #include <stdio.h>
-#include <conio.h>
 
 #define MAXSIZE 10
 int queue[MAXSIZE], front = 0, rear = -1;
