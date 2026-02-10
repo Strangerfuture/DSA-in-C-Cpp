@@ -19,6 +19,5 @@ build/%: %.c | build
 build:
 	mkdir -p build
 
-# Clean build artifacts
 clean:
 	rm -rf build
