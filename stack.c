@@ -1,7 +1,6 @@
 // Stack implementation in C using Array.
 // Stack is LIFO ( Last In, First Out).
 #include <stdio.h>
-#include <conio.h>
 
 // MAXSIZE is used to defined the size of stack.
 // top is use to track the position in the stack.
